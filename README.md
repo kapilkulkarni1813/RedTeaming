@@ -11,3 +11,7 @@ https://jdhitsolutions.com/blog/powershell/5187/get-antivirus-product-status-wit
 - Slack API Hacking
 https://slack.com/api/api.test
 https://api.slack.com/methods/api.test
+
+- Owning The Clout Through Server Side Request Forgery - DEF CON 
+https://www.youtube.com/watch?v=o-tL9ULF0KI
+https://portswigger.net/research/top-10-web-hacking-techniques-of-2019

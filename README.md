@@ -15,3 +15,6 @@ https://api.slack.com/methods/api.test
 - Owning The Clout Through Server Side Request Forgery - DEF CON 
 https://www.youtube.com/watch?v=o-tL9ULF0KI
 https://portswigger.net/research/top-10-web-hacking-techniques-of-2019
+
+-Building an Effective Active Directory Lab Environment for Testing
+https://adsecurity.org/?p=2653

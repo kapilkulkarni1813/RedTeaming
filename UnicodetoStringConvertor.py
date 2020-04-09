@@ -1,6 +1,8 @@
 import sys
 
-name = "Enter Your Unicode Text here"
-print ("Entered String: ", name)
+name = "Enter Your Text here"
+print ("Entered string: ", name)
 a = str(name)
-print ("Converted String : " + a )
+print ("Simple string : " + a )
+b = unicode (name)
+print ("Unicode converted string : " + b )
